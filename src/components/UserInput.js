@@ -51,4 +51,9 @@ class UserInput extends Component {
   }
 }
 
+<<<<<<< HEAD
 export default UserInput
+=======
+export default UserInput;
+© 2021 GitHub, Inc.
+>>>>>>> eb6bb67da8fb827982339f8511b35ab7b479ceaa
